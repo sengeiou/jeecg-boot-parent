@@ -1,0 +1,9 @@
+/target/
+/.idea/
+*.iml
+jeecg-boot-module-demo
+rebel.xml
+# Project exclude paths
+/jeecg-boot-base-common/target/
+/jeecg-boot-dentist/target/
+/jeecg-boot-module-system/target/
